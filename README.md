@@ -26,6 +26,4 @@
 <a href="https://github.com/SpongeBab/darknet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SpongeBab&repo=darknet" />
 </a>
-<a href="https://github.com/SpongeBab/soil-stone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SpongeBab&repo=soil-stone" />
-</a>
+
