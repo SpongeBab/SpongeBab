@@ -13,14 +13,14 @@
 
 
 
-![SpongeBab's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpongeBab&count_private=true&show_icons=true?theme=vue&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10&include_all_commits=true&line_height=3)
+![SpongeBab's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpongeBab&count_private=true&show_icons=true?theme=vue&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10&include_all_commits=true)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Spongebab&repo=darknet)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpongeBab)
 
 <a href="https://github.com/SpongeBab/darknet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SpongeBab&count_private=true&show_icons=true?theme=vue&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10&include_all_commits=true&line_height=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SpongeBab&count_private=true&show_icons=true?theme=vue&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10&include_all_commits=true" />
 </a>
 
 <a href="https://github.com/SpongeBab/darknet">
