@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![SpongeBab's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpongeBab)](https://github.com/SpongeBab/github-readme-stats)
+[![SpongeBab's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpongeBab)]
