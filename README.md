@@ -16,4 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-![SpongeBab's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpongeBab&count_private=true&show_icons=true?theme=flag-india)
+![SpongeBab's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpongeBab&count_private=true&show_icons=true?theme=vue&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpongeBab)
+
