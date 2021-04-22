@@ -18,14 +18,14 @@
 </a>
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Spongebab&repo=SpongeBab.github.io)](https://github.com/SpongeBab/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Spongebab&repo=SpongeBab.github.io)](https://github.com/SpongeBab/SpongeBab.github.io)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Spongebab&repo=SpongeBab.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Spongebab&repo=SpongeBab.github.io)](https://github.com/SpongeBab/SpongeBab.github.io)
 
 
 <a href="https://github.com/SpongeBab/darknet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SpongeBab&repo=darknet" />
 </a>
-<a href="https://github.com/SpongeBab/darknet_data">
+<a href="https://github.com/SpongeBab/soil-stone">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SpongeBab&repo=soil-stone" />
 </a>
