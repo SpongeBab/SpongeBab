@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-![SpongeBab's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpongeBab)
+![SpongeBab's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpongeBab&count_private=true&show_icons=true?theme=flag-india)]
