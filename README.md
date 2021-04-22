@@ -17,8 +17,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Spongebab&repo=SpongeBab.github.io)](https://github.com/SpongeBab/SpongeBab.github.io)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Spongebab&repo=SpongeBab.github.io)](https://github.com/SpongeBab/SpongeBab.github.io)
-
 
 <a href="https://github.com/SpongeBab/darknet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SpongeBab&repo=darknet" />
