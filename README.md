@@ -1,5 +1,8 @@
 ### Hi guys 👋
 
+<a href="https://github.com/SpongeBab/darknet">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=SpongeBab&count_private=true&show_icons=true&theme=solarized-light&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10&include_all_commits=true&layout=compact" />
+</a>
 [![SpongeBab's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpongeBab&count_private=true&show_icons=true&theme=solarized-light&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10&include_all_commits=true&layout=compact)](https://github.com/SpongeBab)
 
 - 🔭 I’m currently working on ...
