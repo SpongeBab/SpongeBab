@@ -27,5 +27,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SpongeBab&repo=darknet" />
 </a>
 <a href="https://github.com/SpongeBab/darknet_data">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SpongeBab&repo=soil_stone" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SpongeBab&repo=soil-stone" />
 </a>
