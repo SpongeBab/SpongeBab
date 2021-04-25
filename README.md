@@ -14,7 +14,7 @@
 
 
 
-- 🔭 I’m currently working on ...
+- 🔭 I am currently in the **second year of my graduate**. 
 - 🌱 I’m currently learning **Deep Learning.**
 - 👨‍💻 All of my projects are available at [here](https://github/spongeBab)
 - 📝 I regularly write articles on [MyBlog](https://blog.csdn.net/weixin_40557160)
