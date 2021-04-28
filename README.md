@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SpongeBbb</h1>
+<h1 align="center">Hi 👋, I'm SpongeBab</h1>
 <h3 align="center">A graduate student studying CV(computer vision).</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=spongebab&label=Profile%20views&color=0e75b6&style=flat" alt="spongebab" /> </p>
