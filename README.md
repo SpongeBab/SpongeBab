@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm SpongeBab</h1>
 <h3 align="center">A graduate student studying CV(computer vision).</h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=spongebab&label=Profile%20views&color=0e75b6&style=flat" alt="spongebab" /> </p>
-
-
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=SpongeBab&count_private=true&show_icons=true&theme=solarized-light&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10&include_all_commits=true&layout=compact" />
+<p align="center"> 
+     <a href="http://github.com/SpongeBab">
+        <img src="https://komarev.com/ghpvc/?username=spongebab&label=Profile%20views&color=0e75b6&style=flat" alt="spongebab" /> 
+     </a>
+     <a >
+     </a>
+ </p>
 
 
 [![MyLover](https://img.shields.io/badge/PengJinwen-Hejin-red)](https://github.com/SpongeBab)
