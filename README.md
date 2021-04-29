@@ -33,5 +33,5 @@
 
 <details>
   <summary>Weekly Coding Status</summary>
-  <p align="left"><img width="800" src="https://github-readme-stats.vercel.app/api/wakatime?username=Spongebab&layout=compact)"></p>
+  <p align="left"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Spongebab&layout=compact)"></p>
 </details>
