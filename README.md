@@ -4,7 +4,8 @@
      <a href="http://github.com/SpongeBab">
         <img src="https://komarev.com/ghpvc/?username=spongebab&label=Profile%20views&color=0e75b6&style=flat" alt="spongebab" /> 
      </a>
-     <a >
+     <a herf="http://github.com/SpongeBab">
+        <img src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg" alt="spongebab" /  >
      </a>
  </p>
 
