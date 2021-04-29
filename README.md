@@ -8,7 +8,7 @@
         <img src="https://img.shields.io/website-up-down-green-red/http/shields.io.svg" alt="spongebab" /  >
      </a>
  </p>
-
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=SpongeBab&count_private=true&show_icons=true&theme=solarized-light&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10&include_all_commits=true&layout=compact" />
 
 [![MyLover](https://img.shields.io/badge/PengJinwen-Hejin-red)](https://github.com/SpongeBab)
 [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DSpongeBab&longCache=true)](https://github.com/SpongeBab)
