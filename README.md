@@ -31,3 +31,7 @@
 
 <p align="left"> <a href="https://github.com/spongebab"><img src="https://github-profile-trophy.vercel.app/?username=spongebab&row=1" alt="spongebab" /></a> </p>
 
+<details>
+  <summary>Weekly Coding Status</summary>
+  <p align="left"><img width="800" src="https://github-readme-stats.vercel.app/api/wakatime?username=Spongebab&layout=compact)"></p>
+</details>
