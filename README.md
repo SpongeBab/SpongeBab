@@ -25,7 +25,7 @@
 - 🤔 I’m looking for help with **improve mAP.**
 - 💬 Ask me about **C/C++,Python.**
 
-- 📫 How to reach me ** [MyBlog](https://blog.csdn.net/weixin_40557160)**
+- 📫 How to reach me [MyBlog](https://blog.csdn.net/weixin_40557160)
 - 😄 Pronouns: WHAT DO YOU SEE FROM HERE.
 - ⚡ Fun fact **all funny thing！**
 
