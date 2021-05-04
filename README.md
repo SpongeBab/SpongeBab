@@ -20,12 +20,12 @@
 - 🔭 I am currently in the **second year of my graduate**. 
 - 🌱 I’m currently learning **Deep Learning.**
 - 👨‍💻 All of my projects are available at [here](https://github/spongeBab)
-- 📝 I regularly write articles on [MyBlog](https://blog.csdn.net/weixin_40557160)
-- 👯 I’m looking to collaborate on **to be confirmed**
-- 🤔 I’m looking for help with **improve mAP**
+- 📝 I regularly write articles on [MyBlog](https://blog.csdn.net/weixin_40557160).
+- 👯 I’m looking to collaborate on **to be confirmed.**
+- 🤔 I’m looking for help with **improve mAP.**
 - 💬 Ask me about **C/C++,Python.**
 
-- 📫 How to reach me **2078825250@qq.com**
+- 📫 How to reach me ** [MyBlog](https://blog.csdn.net/weixin_40557160)**
 - 😄 Pronouns: WHAT DO YOU SEE FROM HERE.
 - ⚡ Fun fact **all funny thing！**
 
