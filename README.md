@@ -18,16 +18,15 @@
 
 
 - 🔭 I am currently in the **second year of my graduate**. 
-- 🌱 I’m currently learning **Deep Learning.**
-- 👨‍💻 All of my projects are available at [here](https://github/spongeBab)
+- 🌱 I’m currently learning **CV**.
+- 👨‍💻 All of my projects are available at [here](https://github/spongeBab).
 - 📝 I regularly write articles on [MyBlog](https://blog.csdn.net/weixin_40557160).
-- 👯 I’m looking to collaborate on **to be confirmed.**
-- 🤔 I’m looking for help with **improve mAP.**
-- 💬 Ask me about **C/C++,Python.**
-
-- 📫 How to reach me [MyBlog](https://blog.csdn.net/weixin_40557160)
+- 👯 I’m looking to collaborate on **to be confirmed**.
+- 🤔 I’m looking for help with **improve mAP**.
+- 💬 Ask me about **C/C++,Python**.
+- 📫 How to reach me [@me](https://blog.csdn.net/weixin_40557160).
 - 😄 Pronouns: WHAT DO YOU SEE FROM HERE.
-- ⚡ Fun fact **all funny thing！**
+- ⚡ Fun fact **all funny thing~**
 
 <p align="left"> <a href="https://github.com/spongebab"><img src="https://github-profile-trophy.vercel.app/?username=spongebab&row=1" alt="spongebab" /></a> </p>
 
