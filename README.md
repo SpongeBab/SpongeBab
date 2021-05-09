@@ -28,14 +28,14 @@
 - 😄 Pronouns: WHAT DO YOU SEE FROM HERE.
 - ⚡ Fun fact **all funny thing~**
 
-<p align="left"> 
+<p align="center"> 
      <a href="https://github.com/spongebab">
      <img src="https://github-profile-trophy.vercel.app/?username=spongebab&row=1" alt="spongebab" />
      </a> 
 </p>
 <p align="left"> 
      <a href="https://frontend.code-inspector.com/public/user/github/SpongeBab">
-     <img src="https://code-inspector.com/public/badge/user/github/SpongeBab?style=light" alt="code inspector badge" />
+     <img width = 600 src="https://code-inspector.com/public/badge/user/github/SpongeBab?style=light" alt="code inspector badge" />
      </a>
 </p>
 <details>
