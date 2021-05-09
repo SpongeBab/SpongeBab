@@ -28,7 +28,7 @@
 - 😄 Pronouns: WHAT DO YOU SEE FROM HERE.
 - ⚡ Fun fact **all funny thing~**
 
-<p align="center"> 
+<p align="left"> 
      <a href="https://github.com/spongebab">
      <img src="https://github-profile-trophy.vercel.app/?username=spongebab&row=1" alt="spongebab" />
      </a> 
