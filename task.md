@@ -1,6 +1,6 @@
 # My Work
 
-# 已完成总结
+## 已完成总结
 
 - [x] 2021.5.16：将YOLOv5导出为torchscript，onnx，CoreML（macOS），尝试编写c++应用程序调用onnx模型，失败。这会生成一个Windows桌面应用程序，属性设置未完成，考 虑学习成本太高，放弃。
 - [x] 1.在darknet(YOLOv4)中实现Repulsion_Loss。
@@ -13,7 +13,7 @@
 - [x] 6.用YOLOv5重新训练coco_only_person，测试。
   结果：<https://blog.csdn.net/weixin_40557160/article/details/116004086>
 
-# 未完成
+## 未完成
 
 - [ ] 1.pytorch训练，将权重导出为ONNX，编写c代码实现推理。
 - [ ] 2.实现CSP-efficientnet.
