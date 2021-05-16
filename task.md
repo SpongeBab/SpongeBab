@@ -7,8 +7,8 @@
 - [x] 2.使用YOLOv4原版权重只检测人，并实现计数。
 - [x] 3.用darknet重新训练coco_only_person,评估AP。（505000个batch时间太久，只训练了50000个batch，70多AP。）
            
-      检测结果：<https://blog.csdn.net/weixin_40557160/article/details/116004086>
-      没有原版权重好，不知道YOLOv4中person的AP是多少？
+     检测结果：<https://blog.csdn.net/weixin_40557160/article/details/116004086>
+     没有原版权重好，不知道YOLOv4中person的AP是多少？
 - [x] 4.测试Scaled-YOLOv4，只检测人。
 - [x] 5.测试YOLOv5，只检测人。
 - [x] 6.用YOLOv5重新训练coco_only_person，测试。
