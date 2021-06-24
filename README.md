@@ -33,11 +33,7 @@
      <img src="https://github-profile-trophy.vercel.app/?username=spongebab&row=1" alt="spongebab" />
      </a> 
 </p>
-<p align="left"> 
-     <a href="https://frontend.code-inspector.com/public/user/github/SpongeBab">
-     <img width = 600 src="https://code-inspector.com/public/badge/user/github/SpongeBab?style=light" alt="code inspector badge" />
-     </a>
-</p>
+
 <details>
   <summary>Weekly Coding Status</summary>
   <p align="left"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Spongebab&layout=compact)"></p>
