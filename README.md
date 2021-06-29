@@ -34,7 +34,7 @@
      </a> 
 </p>
 
-<details>
-  <summary> Weekly Coding Status <summary> 
+<details open>
+<summary> Weekly Coding Status </summary> 
   <p align="left"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Spongebab&layout=compact)"></p>
 </details>
