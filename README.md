@@ -35,6 +35,6 @@
 </p>
 
 <details>
-  <summary>Weekly Coding Status open</summary>
+  Weekly Coding Status 
   <p align="left"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Spongebab&layout=compact)"></p>
 </details>
