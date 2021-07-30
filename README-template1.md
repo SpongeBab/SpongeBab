@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/EFPrefix/EFQRCode/assets/EFQRCode.jpg)
+
 
 <p align="center">
     <a href="https://travis-ci.org/EFPrefix/EFQRCode">
